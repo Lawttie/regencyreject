@@ -359,7 +359,7 @@ body {
 /* home page */
 
 .banner-background.home-bg {
-    background: url(home-bg-2.png) no-repeat;
+    background: url(home-bg.png) no-repeat;
     background-size: cover;
 }
 
